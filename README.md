@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1 style="color:#4285F4;">📊 Dashboard de Análise de Salários na Área de Dados 📊</h1>
 </div>
@@ -6,6 +5,11 @@
 <p align="center">
   Este projeto é um dashboard interativo que analisa salários na área de dados, permitindo a exploração de informações por ano, senioridade, tipo de contrato e tamanho da empresa.
 </p>
+
+<h2 style="color:#0F9D58;">👀 Visualização</h2>
+
+<p>Visualize o projeto em produção através do seguinte link:</p>
+<p><a href="https://dashboard-aluragit-ebwyibbhdjwgzcdcdy5hz7.streamlit.app/">https://dashboard-aluragit-ebwyibbhdjwgzcdcdy5hz7.streamlit.app/</a></p>
 
 ---
 
@@ -60,5 +64,5 @@ streamlit run app.py
 ---
 
 <p align="center">
-  Feito por <a href="https://github.com/arthurdequeiroz2005">Arthur de Queiroz</a>
+  Feito com ❤️ por <a href="https://github.com/arthurdequeiroz2005">Arthur de Queiroz</a>
 </p>
