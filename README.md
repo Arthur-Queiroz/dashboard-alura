@@ -60,5 +60,5 @@ streamlit run app.py
 ---
 
 <p align="center">
-  Feito com ❤️ por <a href="https://github.com/arthurdequeiroz2005">Arthur de Queiroz</a>
+  Feito por <a href="https://github.com/arthurdequeiroz2005">Arthur de Queiroz</a>
 </p>
